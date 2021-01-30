@@ -10,6 +10,9 @@ As our model is locally hosted so for data fetching we used google-sheets.
 
 # Content
  assets/ - contains pictures used in website
+ 
  index  - html file
+ 
  styles - css file
+ 
  script - javascript file
